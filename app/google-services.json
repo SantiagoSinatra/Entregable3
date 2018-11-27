@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "62569012954",
+    "firebase_url": "https://dhmomaappv2.firebaseio.com",
+    "project_id": "dhmomaappv2",
+    "storage_bucket": "dhmomaappv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62569012954:android:1bad6cf52c5fdd80",
+        "android_client_info": {
+          "package_name": "com.dhsantiagosinatra.momaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62569012954-kqad5lkqgmcetp8lsonnoodo2tkfgaul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhsantiagosinatra.momaapp",
+            "certificate_hash": "472337f4be0e81a6872a963d5d7852fc9814b7c9"
+          }
+        },
+        {
+          "client_id": "62569012954-h84tqhhos4lmvmpjvvsnrktun338c1l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPqXlnnbzqrIoixYvk5WkoPqfxrZqO5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62569012954-h84tqhhos4lmvmpjvvsnrktun338c1l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
